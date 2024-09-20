@@ -1,15 +1,18 @@
 # Chess with Vanilla JS
-
-```sh
-    git clone https://github.com/pierodev0/chess-vanilla-js.git
-```
-
 <div align="center">   
   <a href="https://chess-vanilla-js.vercel.app/">
         ✨ Open project ✨
         <br/>
     </a>
 </div>
+
+## Start
+
+```sh
+    git clone https://github.com/pierodev0/chess-vanilla-js.git
+```
+
+
 
 ![just-the-basics](./src/images/README.webp)
 
